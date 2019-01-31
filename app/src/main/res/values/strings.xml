@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CryptoString</string>
+    <string name="hint_dec">Enter proper format for decryption</string>
+    <string name="decrypt_text">Decrypting the text</string>
+    <string name="encrypting_text">Encrypting the text</string>
+    <string name="encryption">Encryption</string>
+    <string name="decryption">Decryption</string>
+    <string name="click_submit">click on submit to convert</string>
+    <string name="Enter_text">Enter the text above to convert</string>
+    <string name="title">CryptoString</string>
 </resources>
